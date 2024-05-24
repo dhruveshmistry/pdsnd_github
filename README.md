@@ -32,4 +32,5 @@ The code is structured in the following order:
 8. The user is given the option to restart once all input options have been exhausted
 
 ## Credits
-The datasets and parts of the code were provided for by Udacity. Udacity's GPT assisted in fixing bugs and answering my questions. 
+The dataframe function is based on code found at: https://github.com/Moamen-Jamal/US-Bikeshare-Project/blob/5c4860b31f7153721b8d1e1c869bb6d731a6c062/bikeshare_2.py 
+Used UdacityGPT to ask questions about the github project.
